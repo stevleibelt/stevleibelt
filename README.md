@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm stevleibelt
 
 <!--
 **stevleibelt/stevleibelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am developer and administrator who loves open source.
+
+## Github statistics
+
+[![stevleibelt's github stats](https://github-readme-stats.vercel.app/api?username=stevleibelt&show_icons=true)](https://github.com/stevleibelt/stevleibelt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevleibelt&layout=compact&card_width=445)](https://github.com/stevleibelt/stevleibelt)
+
+
+## Links
+
+* [me](https://stev.leibelt.de/) - Wfficial and self maintainted webpage about me as a subject
+* [archzfs](https://archzfs.leibelt.de/) - Webpage about my self build arch linux iso with zfs included (apropos included, this page has a download link included)
+* [bazzline](https://bazzline.net/) - Official webpage with, sadly but truth, partly deprecated projects
+* [long2ice](https://github.com/long2ice/long2ice/blob/master/README.md) - Userpage who inspired me creating my own user page (thanks and kisses)
