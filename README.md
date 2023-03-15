@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am developer and administrator who loves open source.
+I am developer and administrator who loves open source. I like backend development and my gui is the commandline. I don't care about languages but care about security, speed, user experience and documentation (aka sharing knowledge or reduce the bus factor).
 
 ## Github statistics
 
