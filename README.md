@@ -26,7 +26,7 @@ I am developer and administrator who loves open source. I like backend developme
 
 ## Links
 
-* [me](https://stev.leibelt.de/) - Wfficial and self maintainted webpage about me as a subject
+* [me](https://stev.leibelt.de/) - Official and self maintainted webpage about Stev Leibelt as a subject
 * [archzfs](https://archzfs.leibelt.de/) - Webpage about my self build arch linux iso with zfs included (apropos included, this page has a download link included)
 * [bazzline](https://bazzline.net/) - Official webpage with, sadly but truth, partly deprecated projects
 * [long2ice](https://github.com/long2ice/long2ice/blob/master/README.md) - Userpage who inspired me creating my own user page (thanks and kisses)
