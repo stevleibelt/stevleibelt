@@ -18,6 +18,8 @@ I am developer and administrator who loves open source. I like backend developme
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
+![Mariadb](https://img.shields.io/badge/-Mariadb-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 
